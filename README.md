@@ -28,7 +28,3 @@ It generates **Sentence Transformer (BERT-based)** embeddings and uses **cosine 
 4. Build a graph using **NetworkX**
 5. Visualize the result interactively with **PyVis** or store in **Neo4j**
 
-
-
-Would you like me to add a **setup section** (like installation commands + how to run script and visualize graph)?
-It’ll make it look more complete for GitHub reviewers or recruiters.
