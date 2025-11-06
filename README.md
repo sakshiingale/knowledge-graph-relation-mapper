@@ -1,4 +1,4 @@
-# 🧠 Knowledge Graph Relation Mapper
+# Knowledge Graph Relation Mapper
 
 > **An NLP-powered knowledge graph for intelligent relation mapping.**
 > Visualizing semantic relationships between text sections using embeddings and graph theory.
@@ -7,7 +7,7 @@ It generates **Sentence Transformer (BERT-based)** embeddings and uses **cosine 
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Category          | Tools / Libraries                   |
 | ----------------- | ----------------------------------- |
@@ -20,7 +20,7 @@ It generates **Sentence Transformer (BERT-based)** embeddings and uses **cosine 
 ---
 
 
-## 🔢 How It Works
+##  How It Works
 
 1. Convert text sections into embeddings using **Sentence Transformers**
 2. Compute **cosine similarity** between all pairs
